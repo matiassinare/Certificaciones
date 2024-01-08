@@ -3,5 +3,5 @@ Certificaciones profesionales y certificados adquiridos en diversos cursos de fo
 [Enlace al CV Actualizado - Enero 2024](CV-Matias-Sinare.pdf)
 -
 
-[Accredited Software Testing Fundamentals Certification]([http://www.ejemplo.com](https://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)https://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
+[Accredited_Software Testing Fundamentals Certification]([http://www.ejemplo.com](https://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)https://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
 
