@@ -15,5 +15,5 @@
 * [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/CertificacionUdemy-Git_GitHub.pdf)
 
 ## UTN
-* [Testing manual, ágil y con herramientas](Programacion/Certificacion_UTN Neoris-Testing.pdf)
+* [Testing manual, ágil y con herramientas](Programacion/Certificacion_UTN_Neoris-Testing.pdf)
 * [Desarrollador Java](Programacion/Certificacion_UTN-Desarrollador_Java.pdf)
