@@ -2,9 +2,9 @@
 
 ## [Enlace al CV Actualizado - Enero 2024](CV-Matias-Sinare.pdf)
 
-### Programación
+## Programación
 
-## [Accredited Software Testing Fundamentals Certification](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
+### [Accredited Software Testing Fundamentals Certification](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
 -
 ## Udemy
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](Programacion/Certificacion_Udemy-Software_Testing.pdf)
