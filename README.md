@@ -17,3 +17,6 @@
 ## UTN
 * [Testing manual, ágil y con herramientas](Programacion/Certificacion_UTN_Neoris-Testing.pdf)
 * [Desarrollador Java](Programacion/Certificacion_UTN-Desarrollador_Java.pdf)
+
+## Quassure
+*[Fundamentos y Técnicas de Testing](Programacion/Certificacion_Quassure-Fundamentos_testing.pdf)
