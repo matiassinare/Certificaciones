@@ -8,6 +8,7 @@
 
 * [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
 * [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/Certificacion_Udemy-Git_GitHub.pdf)
+* [Cypress: E2E Automation Testing con JS](Programacion/Certificacion_Udemy-CypressE2E.pdf)
 
 ### UTN
 * [Desarrollador Java](Programacion/Certificacion_UTN-Desarrollador_Java.pdf)
