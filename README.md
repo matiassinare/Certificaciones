@@ -19,4 +19,4 @@
 * [Desarrollador Java](Programacion/Certificacion_UTN-Desarrollador_Java.pdf)
 
 ## Quassure
-*[Fundamentos y Técnicas de Testing](Programacion/Certificacion_Quassure-Fundamentos_testing.pdf)
+* [Fundamentos y Técnicas de Testing](Programacion/Certificacion_Quassure-Fundamentos_testing.pdf)
