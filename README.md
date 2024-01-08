@@ -4,7 +4,7 @@
 
 ### [Accredited Software Testing Fundamentals Certification](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
 
-###Udemy - Certificaciones
-* [Software Testing desde cero : MasterClass todo en 1](Certificacion Udemy - Software Testing.pdf)
+### Udemy - Certificaciones
+* [Software Testing desde cero : MasterClass todo en 1] (Certificacion Udemy - Software Testing.pdf)
 -
 +
