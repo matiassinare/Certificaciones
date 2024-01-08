@@ -1,4 +1,4 @@
-Certificaciones
+Certificaciones--
 Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
 --
 
