@@ -9,6 +9,9 @@
 [Accredited Software Testing Fundamentals Certification](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
 
 ## Udemy
+
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="100" height="100">
+
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](Programacion/Certificacion_Udemy-Software_Testing.pdf)
 * [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
 * [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/CertificacionUdemy-Git_GitHub.pdf)
