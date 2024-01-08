@@ -10,7 +10,7 @@
 
 ## Udemy
 
-<img src="https://github.com/matiassinare/Certificaciones/assets/85135296/911a930a-1e9b-4758-a83d-0702be0cf882" width="100" height="100">
+<img src="https://github.com/matiassinare/Certificaciones/assets/85135296/911a930a-1e9b-4758-a83d-0702be0cf882" width="200" height="200">
 
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](Programacion/Certificacion_Udemy-Software_Testing.pdf)
 * [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
