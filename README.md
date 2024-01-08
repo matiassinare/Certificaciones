@@ -10,9 +10,10 @@
 
 ## Udemy
 
-<img src="https://github.com/matiassinare/Certificaciones/assets/85135296/4aab7257-305d-4974-9cb9-f71504920437" width="100" height="100">
-
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](Programacion/Certificacion_Udemy-Software_Testing.pdf)
 * [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
 * [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/CertificacionUdemy-Git_GitHub.pdf)
--
+
+## UTN
+* [Testing manual, ágil y con herramientas](Programacion/Certificacion_UTN Neoris-Testing.pdf)
+* [Desarrollador Java](Programacion/Certificacion_UTN-Desarrollador_Java.pdf)
