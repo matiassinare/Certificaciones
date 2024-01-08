@@ -12,7 +12,7 @@
 
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](Programacion/Certificacion_Udemy-Software_Testing.pdf)
 * [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
-* [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/CertificacionUdemy-Git_GitHub.pdf)
+* [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/Certificacion_Udemy-Git_GitHub.pdf)
 
 ## UTN
 * [Testing manual, ágil y con herramientas](Programacion/Certificacion_UTN_Neoris-Testing.pdf)
