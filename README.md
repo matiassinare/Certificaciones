@@ -33,6 +33,8 @@
 ### Quassure
 * [Fundamentos y Técnicas de Testing](SoftwareTesting/Certificacion_Quassure-Fundamentos_testing.pdf)
 
+---
+
 # Idiomas
 * [Nivel 1 - Ciclo Básico - Estudio Superior de Portugues](Idiomas/Certificacion_CUI_IdiomaPortugues.pdf)
 * [EF SET Certificate](Idiomas/EFSET-Certificate.pdf)
