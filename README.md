@@ -22,8 +22,8 @@
 
 # Software Testing
 
-### Asociación Internacional de Calidad de Software™
-<img src="https://github.com/matiassinare/Certificaciones/assets/85135296/72da113c-3b74-4c45-99cc-a25f649b917e" width="100" height="100">
+### Asociación Internacional de Calidad de Software™     
+<img src="https://github.com/matiassinare/Certificaciones/assets/85135296/72da113c-3b74-4c45-99cc-a25f649b917e" width="25" height="25">
 
 [Accredited Software Testing Fundamentals Certification](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
 
