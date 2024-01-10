@@ -41,4 +41,8 @@
 * [Nivel 1 - Ciclo Básico - Estudio Superior de Portugues](Idiomas/Certificacion_CUI_IdiomaPortugues.pdf)
 * [EF SET Certificate](Idiomas/EFSET-Certificate.pdf)
 
+# Otros
+
+<img src="https://github.com/matiassinare/Certificaciones/assets/85135296/72da113c-3b74-4c45-99cc-a25f649b917e" width="100" height="100">
+* [Software Testing Annual Report Contributor 2024](Otros/Certificacion_de_colaboracion-SoftwareTestingReport.pdf)
 
