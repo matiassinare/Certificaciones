@@ -11,26 +11,26 @@
 * [Inicia en la Programacion: Primer Paso : Git y Terminal](Programacion/Certificacion_Udemy-Git_GitHub.pdf)
 * [Cypress: E2E Automation Testing con JS](Programacion/Certificacion_Udemy-CypressE2E.pdf)
 
-### UTN
+#### UTN
 * [Desarrollador Java](Programacion/Certificacion_UTN-Desarrollador_Java.pdf)
 
-### Argentina Programa
+#### Argentina Programa
 * [Argentina Programa Etapa 1](Programacion/Certificacion_ArgentinaPrograma.pdf)
 
 ---
 
 # Software Testing
 
-### Asociación Internacional de Calidad de Software™     
+#### Asociación Internacional de Calidad de Software™     
 * [Accredited Software Testing Fundamentals Certification](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA)
 
-### Udemy
+#### Udemy
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](SoftwareTesting/Certificacion_Udemy-Software_Testing.pdf)
 
-### UTN
+#### UTN
 * [Testing manual, ágil y con herramientas](SoftwareTesting/Certificacion_UTN_Neoris-Testing.pdf)
 
-### Quassure
+#### Quassure
 * [Fundamentos y Técnicas de Testing](SoftwareTesting/Certificacion_Quassure-Fundamentos_testing.pdf)
 
 ---
@@ -41,6 +41,6 @@
 
 # Otros
 
-### Asociación Internacional de Calidad de Software™     
+#### Asociación Internacional de Calidad de Software™     
 * [Software Testing Annual Report Contributor 2024](Otros/Certificacion_de_colaboracion-SoftwareTestingReport.pdf)
 
