@@ -45,7 +45,7 @@
 # Otros
 
 #### SCRUM
-##### SCRUMstudy Certifications
+###### SCRUMstudy Certifications
 * [Scrum Fundamentals Certified](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-MatiasSinare.-1012899.pdf)
 
 #### Asociación Internacional de Calidad de Software™     
