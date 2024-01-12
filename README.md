@@ -44,3 +44,7 @@
 #### Asociación Internacional de Calidad de Software™     
 * [Software Testing Annual Report Contributor 2024](Otros/Certificacion_de_colaboracion-SoftwareTestingReport.pdf)
 
+#### SCRUMstudy Certifications
+* [Scrum Fundamentals Certified](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-MatiasSinare.-1012899.pdf)
+
+
