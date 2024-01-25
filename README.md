@@ -6,8 +6,11 @@
 
 # Programación
 
+#### Coursera
+* [Python: de cero a usuario](https://www.coursera.org/account/accomplishments/verify/VWWHXVTVQ9GV)
+
 #### Udemy
-* [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
+
 * [Cypress: E2E Automation Testing con JS](https://www.udemy.com/certificate/UC-7a62f543-d8f7-436a-8a23-8fc578bfbf26/)
 * [Inicia en la Programacion: Primer Paso : Git y Terminal](https://www.udemy.com/certificate/UC-f86d9e8a-2798-4012-a45c-b56b4dd72dbd/)
 
@@ -28,6 +31,8 @@
 * [Introducción a Bases de Datos y SQL](https://api.educacionit.com/pdf/certificados/matias-sinare-506469/56546)
 
 #### Udemy
+
+* [Cypress: Master en automatización Test QA](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf)
 * [Software-Testing-desde-cero-MasterClass-todo-en-1](https://www.udemy.com/certificate/UC-e06c0bff-7e93-426b-a800-a1b1d6393997/)
 
 #### UTN
