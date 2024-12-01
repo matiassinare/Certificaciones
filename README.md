@@ -1,6 +1,6 @@
 # Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
 
-### [Enlace al CV Actualizado - Enero 2024](CV-MatiasSinare-QAAnalyst.pdf)
+### [Enlace al CV Actualizado - Diciembre 2024](CV-QA-MatiasSinare.pdf)
 
 ---
 
