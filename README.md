@@ -1,6 +1,6 @@
 # Certificaciones profesionales y certificados adquiridos en diversos cursos de formación, seminarios, etc.
 
-### [Enlace al CV Actualizado - Diciembre 2024](CV-QA-MatiasSinare.pdf)
+### [Enlace al CV Actualizado - Mayo 2025](Matias-Sinare_QA-Automation-Engineer_SSR.pdf)
 
 ---
 
