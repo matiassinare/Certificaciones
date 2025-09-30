@@ -25,7 +25,7 @@ Incluye copia de mi [CV actualizado - Octubre 2025](Matias_Sinare_CV_QA_Automati
 | Performance Testing con JMeter + BlazeMeter | Udemy | 2025 | [Ver certificado](https://www.udemy.com/certificate/UC-8caa4675-69c9-40d5-96cb-a58a66dfd51a/) |
 | Accredited Software Testing Fundamentals Certification (ASTFC) | Asociación Internacional de Calidad de Software™ | 2023 | [Ver certificado](http://badgr.com/public/assertions/TUVhAmV7QBe3XJySOKEoqA) |
 | Introducción a Bases de Datos y SQL | Educación IT | 2022 | [Ver certificado](https://api.educacionit.com/pdf/certificados/matias-sinare-506469/56546) |
-| Cypress: Máster en Automatización Test QA | Udemy | 2022 | [PDF](Programacion/Certificacion_Udemy-Automatizacion_Cypress.pdf) |
+| Cypress: Máster en Automatización Test QA (En Español) | Udemy | 2022 | [Ver certificado](https://www.udemy.com/certificate/UC-4066f92f-3fda-4881-be05-e060c74bb2d9/) |
 | Software Testing desde cero – MasterClass todo en 1 | Udemy | 2022 | [Ver certificado](https://www.udemy.com/certificate/UC-e06c0bff-7e93-426b-a800-a1b1d6393997/) |
 | Testing manual, ágil y con herramientas | UTN (Neoris) | 2021 | [PDF](SoftwareTesting/Certificacion_UTN_Neoris-Testing.pdf) |
 | Fundamentos y Técnicas de Testing | Quassure | 2021 | [PDF](SoftwareTesting/Certificacion_Quassure-Fundamentos_testing.pdf) |
