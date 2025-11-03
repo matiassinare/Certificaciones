@@ -68,7 +68,7 @@
 | Certificación | Institución | Año | Link |
 |---------------|-------------|-----|------|
 | English Certificate B2 (Upper Intermediate) | EF SET | 2022 | [PDF](Idiomas/EFSET-Certificate.pdf) |
-| Nivel 1 – Ciclo Básico de Portugués | Estudio Superior de Portugués (CUI) | 2020 | [PDF](Idiomas/Certificacion_CUI_IdiomaPortugues.pdf) |
+| Nivel 1 – Ciclo Básico de Portugués | Estudio Superior de Portugués (CUI) | 2023 | [PDF](Idiomas/Certificacion_CUI_IdiomaPortugues.pdf) |
 
 ---
 
