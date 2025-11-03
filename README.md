@@ -1,7 +1,9 @@
 # 📜 Certificaciones Profesionales
 
 Repositorio con mis certificaciones y cursos completados en distintas áreas de **programación**, **software testing**, **idiomas** y metodologías ágiles.  
-Incluye copia de mi [CV actualizado - Octubre 2025](Matias_Sinare_CV_QA_Automation_2025.pdf).
+Incluye copias de mis CVs:
+- [CV QA Automation Engineer](Matias_Sinare_QA_Automation_Engineer.pdf)
+- [CV QA Automation ATS](Matias_Sinare_QA_Automation_ATS.pdf)
 
 ---
 
