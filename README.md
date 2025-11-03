@@ -1,6 +1,6 @@
 # 📜 Matías Sinare - Certificaciones Profesionales
 
-> QA Automation Engineer especializado en Testing automatizado, Cypress, Playwright y Performance Testing
+> QA Automation Engineer especializado en Cypress, Playwright y E2E Testing
 
 [![GitHub](https://img.shields.io/badge/GitHub-matiassinare-181717?style=flat&logo=github)](https://github.com/matiassinare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matiassinare-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/matiassinare)
@@ -20,7 +20,7 @@
 
 ## 🔥 Tecnologías Principales
 
-- **Testing**: Cypress, Playwright, JMeter, Postman
+- **Testing**: Cypress, Playwright, E2E Testing
 - **Lenguajes**: JavaScript/TypeScript, Python, Java
 - **Metodologías**: Agile/Scrum, ISTQB
 - **Herramientas**: Git/GitHub, Docker, CI/CD
