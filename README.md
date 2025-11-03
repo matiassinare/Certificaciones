@@ -86,7 +86,7 @@
 
 **Total de certificaciones**: 18  
 **Última actualización**: 2025  
-**Áreas de especialización**: QA Automation, E2E Testing, Performance Testing, Agile
+**Áreas de especialización**: QA Automation, E2E Testing, API Testing, Agile
 
 ---
 
