@@ -1,6 +1,6 @@
 # 📜 Matías Sinare - Certificaciones Profesionales
 
-> QA Automation Engineer especializado en Cypress, Playwright y E2E Testing
+> QA Automation Engineer especializado en Selenium, Cypress y Playwright
 
 [![GitHub](https://img.shields.io/badge/GitHub-matiassinare-181717?style=flat&logo=github)](https://github.com/matiassinare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matiassinare-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/matiassinare)
