@@ -20,10 +20,10 @@
 
 ## 🔥 Tecnologías Principales
 
-- **Testing**: Cypress, Playwright, E2E Testing
+- **Testing**: Selenium, Cypress, Playwright, E2E Testing, API Testing
 - **Lenguajes**: JavaScript/TypeScript, Python, Java
 - **Metodologías**: Agile/Scrum, ISTQB
-- **Herramientas**: Git/GitHub, Docker, CI/CD
+- **Herramientas**: Git/GitHub, Docker, CI/CD, MySQL, MongoDB
 
 ---
 
