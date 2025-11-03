@@ -1,21 +1,38 @@
-# 📜 Certificaciones Profesionales
+# 📜 Matías Sinare - Certificaciones Profesionales
 
-Repositorio con mis certificaciones y cursos completados en distintas áreas de **programación**, **software testing**, **idiomas** y metodologías ágiles.  
-Incluye copias de mis CVs:
-- [CV QA Automation Engineer](Matias_Sinare_QA_Automation_Engineer.pdf)
-- [CV QA Automation ATS](Matias_Sinare_QA_Automation_ATS.pdf)
+> QA Automation Engineer especializado en Testing automatizado, Cypress, Playwright y Performance Testing
+
+[![GitHub](https://img.shields.io/badge/GitHub-matiassinare-181717?style=flat&logo=github)](https://github.com/matiassinare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matiassinare-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/matiassinare)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail)](mailto:matiassinare@gmail.com)
 
 ---
 
-## 👨‍💻 Programación
+## 📋 Acceso Rápido
 
-| Certificación | Institución | Año | Link |
-|---------------|-------------|-----|------|
-| Python: de cero a usuario | Coursera | 2021 | [Ver certificado](https://www.coursera.org/account/accomplishments/verify/VWWHXVTVQ9GV) |
-| Cypress: E2E Automation Testing con JS | Udemy | 2022 | [Ver certificado](https://www.udemy.com/certificate/UC-7a62f543-d8f7-436a-8a23-8fc578bfbf26/) |
-| Inicia en la Programación: Git y Terminal | Udemy | 2021 | [Ver certificado](https://www.udemy.com/certificate/UC-f86d9e8a-2798-4012-a45c-b56b4dd72dbd/) |
-| Desarrollador Java | UTN | 2020 | [PDF](Programacion/Certificacion_UTN-Desarrollador_Java.pdf) |
-| Argentina Programa Etapa 1 | Ministerio de Desarrollo Productivo | 2021 | [PDF](Programacion/Certificacion_ArgentinaPrograma.pdf) |
+- **[📄 CVs](/CVs)**: Versiones ATS y estándar de mi currículum
+- **[🧪 Software Testing](#-software-testing)**: Certificaciones en Testing y QA
+- **[👨‍💻 Programación](#%EF%B8%8F-programación)**: Lenguajes y frameworks
+- **[🌍 Idiomas](#-idiomas)**: Certificados de competencias lingüísticas
+- **[📌 Metodologías Ágiles](#-otros)**: Scrum y colaboración
+
+---
+
+## 🔥 Tecnologías Principales
+
+- **Testing**: Cypress, Playwright, JMeter, Postman
+- **Lenguajes**: JavaScript/TypeScript, Python, Java
+- **Metodologías**: Agile/Scrum, ISTQB
+- **Herramientas**: Git/GitHub, Docker, CI/CD
+
+---
+
+## 📄 CVs
+
+| Tipo | Descripción | Descarga |
+|------|-------------|----------|
+| **QA Automation Engineer** | Versión estándar con diseño profesional | [📥 Descargar](CVs/Matias_Sinare_QA_Automation_Engineer.pdf) |
+| **QA Automation ATS** | Optimizado para sistemas ATS (scannable) | [📥 Descargar](CVs/Matias_Sinare_QA_Automation_ATS.pdf) |
 
 ---
 
@@ -34,12 +51,24 @@ Incluye copias de mis CVs:
 
 ---
 
+## 👨‍💻 Programación
+
+| Certificación | Institución | Año | Link |
+|---------------|-------------|-----|------|
+| Python: de cero a usuario | Coursera | 2021 | [Ver certificado](https://www.coursera.org/account/accomplishments/verify/VWWHXVTVQ9GV) |
+| Cypress: E2E Automation Testing con JS | Udemy | 2022 | [Ver certificado](https://www.udemy.com/certificate/UC-7a62f543-d8f7-436a-8a23-8fc578bfbf26/) |
+| Inicia en la Programación: Git y Terminal | Udemy | 2021 | [Ver certificado](https://www.udemy.com/certificate/UC-f86d9e8a-2798-4012-a45c-b56b4dd72dbd/) |
+| Desarrollador Java | UTN | 2020 | [PDF](Programacion/Certificacion_UTN-Desarrollador_Java.pdf) |
+| Argentina Programa Etapa 1 | Ministerio de Desarrollo Productivo | 2021 | [PDF](Programacion/Certificacion_ArgentinaPrograma.pdf) |
+
+---
+
 ## 🌍 Idiomas
 
 | Certificación | Institución | Año | Link |
 |---------------|-------------|-----|------|
-| Nivel 1 – Ciclo Básico de Portugués | Estudio Superior de Portugués (CUI) | 2020 | [PDF](Idiomas/Certificacion_CUI_IdiomaPortugues.pdf) |
 | English Certificate B2 (Upper Intermediate) | EF SET | 2022 | [PDF](Idiomas/EFSET-Certificate.pdf) |
+| Nivel 1 – Ciclo Básico de Portugués | Estudio Superior de Portugués (CUI) | 2020 | [PDF](Idiomas/Certificacion_CUI_IdiomaPortugues.pdf) |
 
 ---
 
@@ -53,7 +82,20 @@ Incluye copias de mis CVs:
 
 ---
 
-📌 **Contacto**  
-- [LinkedIn](https://linkedin.com/in/matiassinare)  
-- [GitHub](https://github.com/matiassinare)  
-- 📧 matiassinare@gmail.com
+## 📊 Resumen Ejecutivo
+
+**Total de certificaciones**: 18  
+**Última actualización**: 2025  
+**Áreas de especialización**: QA Automation, E2E Testing, Performance Testing, Agile
+
+---
+
+## 📞 Contacto
+
+- 💼 **LinkedIn**: [linkedin.com/in/matiassinare](https://linkedin.com/in/matiassinare)
+- 💻 **GitHub**: [github.com/matiassinare](https://github.com/matiassinare)
+- 📧 **Email**: matiassinare@gmail.com
+
+---
+
+> 💡 **Nota para Recruiters**: Este repositorio contiene todas mis certificaciones verificables y CVs actualizados. Todos los enlaces externos están verificados y activos.
